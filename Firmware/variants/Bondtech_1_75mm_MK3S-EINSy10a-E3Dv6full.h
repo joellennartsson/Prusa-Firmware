@@ -36,7 +36,7 @@
 
 // Steps per unit {X,Y,Z,E}
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,140}
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,415} //Bondtech 3:1 ratio
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,830} //Bondtech 3:1 ratio
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,560}
 
 // Endstop inverting
